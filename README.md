@@ -6,7 +6,7 @@ This repository contains an individual project report that explores a dataset of
 
 ## Jupyter Notebook
 
-You can access the Jupyter Notebook containing the code and documentation for this project by clicking[GEM_T5.ipynb](https://github.com/NikhilaRamisetti/Text_Mining-NLTK/blob/main/GEM_T5.ipynb).
+You can access the Jupyter Notebook containing the code and documentation for this project by clicking[Link]().
 
 ## Task 1: Description of Data and Methods
 
@@ -65,10 +65,11 @@ pip install -r requirements.txt
 ```
 
 3. Run the project by executing the main script
- `src/`: The source code is the Jupyter Notebook containing the code and documentation for this project by clicking [GEM_T5.ipynb](https://github.com/NikhilaRamisetti/Text_Mining-NLTK/blob/main/GEM_T5.ipynb).
+ `src/`: The source code is the Jupyter Notebook containing the code and documentation for this project by clicking [Link]().
 
 4. Refer to the results and detailed project documentation below:
 - `results/`: Stores the project results and visualizations.
+- `docs/` : Detailed documentation and report.
 
 ## Acknowledgments
 
